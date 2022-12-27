@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "fs": "^0.0.1-security",
-    "node": "^16.9.1",
-    "node.js": "*"
-  }
-}
