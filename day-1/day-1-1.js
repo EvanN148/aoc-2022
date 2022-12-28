@@ -53,6 +53,7 @@ buffer.toString().split('\n').forEach((number) => {
   } else {
     currentList += parseInt(number)
   }
+
 })
 
 highestElf += 1
